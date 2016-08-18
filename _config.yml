@@ -1,0 +1,14 @@
+layout_spectrum: 0.3622628
+typography_spectrum: 0.7495314
+color:
+  saturation: 0.3825853
+  lightness: 0.05252578
+  brandStrength: 0.9479575
+  rhythmicContrast: 0.7726746
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+name: Prickly Pears
